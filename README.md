@@ -12,4 +12,5 @@ MKVToolNix was used to merge the video and the subtitles together.
 
 ### TODO:
 
+Files downloaded with that format has corrupted codecs
 Make this into one executable that anyone else using Panopto can use this easily.
