@@ -13,6 +13,6 @@ MKVToolNix was used to merge the video and the subtitles together.
 carykh/jumpcutter included in the repo for a speedier video without the slient parts. (Did not use it as it does not acknowledge subtitles and also really really slow)
 
 
-### TODO:
+### DOWNLOAD:
 
-Make this into one executable that anyone else using Panopto can use this easily.
+https://drive.google.com/open?id=1iZ4IlXJ2wBftytXl8rcY6fBG2DmY7hr2
