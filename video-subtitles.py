@@ -15,7 +15,7 @@ for file in os.listdir(videosPath):
         video_name = os.path.splitext(file)[0]
 		
         os.system(
-        "C:/Users/total/AppData/Local/Programs/Python/Python27/python.exe " +
-		"C:/Users/total/AppData/Local/Programs/Python/Python27/Scripts/autosub_app.py -S en -D en " 
+        "%cd%/bin/Python27/python.exe " +
+		"%cd%/bin/Python27/Scripts/autosub_app.py -S en -D en " 
 		+ videosPath + video_name + ".mp4"
         )
